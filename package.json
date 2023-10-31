@@ -1,0 +1,14 @@
+{
+  "name": "chat-websocket",
+  "version": "1.0.0",
+  "description": "estas es un chat con websocket",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node . "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
